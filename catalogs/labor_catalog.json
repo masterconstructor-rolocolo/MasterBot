@@ -1,0 +1,35 @@
+[
+  { "id":"labor_fund_zapata_1x1_u", "cat_s":"Fundaciones", "desc":"Ejecución zapata 1x1 m (mano de obra)", "unit":"u",  "base":0, "work_item_id":"fund_zapata_1x1_u" },
+  { "id":"labor_fund_viga_fund_ml", "cat_s":"Fundaciones", "desc":"Encofrado + armado + colado viga de fundación 0,15x0,30", "unit":"ml", "base":0, "work_item_id":"fund_viga_fund_ml_015x030" },
+
+  { "id":"labor_columna_u", "cat_s":"Estructura", "desc":"Encofrado + armado + colado columna 0,15x0,30 (2,6 m)", "unit":"u",  "base":0, "work_item_id":"col_015x030_h260_u" },
+  { "id":"labor_viga_sup_ml", "cat_s":"Estructura", "desc":"Encofrado + armado + colado viga superior 0,15x0,30", "unit":"ml", "base":0, "work_item_id":"viga_sup_ml_015x030" },
+
+  { "id":"labor_losa_m2", "cat_s":"Losas", "desc":"Colocación losa viguetas + bovedillas + capa de compresión", "unit":"m2", "base":0, "work_item_id":"losa_m2_vigueta_shap_comp" },
+
+  { "id":"labor_wall_08_m2", "cat_s":"Mampostería", "desc":"Levantado mampostería ladrillo hueco 0,08", "unit":"m2", "base":0, "work_item_id":"wall_hueco_08_m2" },
+  { "id":"labor_wall_12_m2", "cat_s":"Mampostería", "desc":"Levantado mampostería ladrillo hueco 0,12", "unit":"m2", "base":0, "work_item_id":"wall_hueco_12_m2" },
+  { "id":"labor_wall_18_m2", "cat_s":"Mampostería", "desc":"Levantado mampostería ladrillo hueco 0,18", "unit":"m2", "base":0, "work_item_id":"wall_hueco_18_m2" },
+
+  { "id":"labor_contrapiso_suelo_m2", "cat_s":"Pisos", "desc":"Ejecución contrapiso 12 cm sobre terreno", "unit":"m2", "base":0, "work_item_id":"contrapiso_12cm_suelo_m2" },
+  { "id":"labor_contrapiso_losa_m2", "cat_s":"Pisos", "desc":"Ejecución contrapiso 12 cm sobre losa", "unit":"m2", "base":0, "work_item_id":"contrapiso_12cm_sobre_losa_m2" },
+
+  { "id":"labor_carpeta_m2", "cat_s":"Carpetas", "desc":"Ejecución carpeta cementicia", "unit":"m2", "base":0, "work_item_id":"carpeta_m2" },
+  { "id":"labor_carpeta_aisl_m2", "cat_s":"Carpetas", "desc":"Ejecución carpeta aisladora (hidrófuga)", "unit":"m2", "base":0, "work_item_id":"carpeta_aisladora_m2" },
+
+  { "id":"labor_revoque_ext_m2", "cat_s":"Revoques", "desc":"Revoque exterior 3 cm", "unit":"m2", "base":0, "work_item_id":"revoque_ext_3cm_m2" },
+  { "id":"labor_revoque_int_m2", "cat_s":"Revoques", "desc":"Revoque interior 2,5 cm", "unit":"m2", "base":0, "work_item_id":"revoque_int_25mm_m2" },
+
+  { "id":"labor_hormigon_m3", "cat_s":"Hormigón", "desc":"Hormigonado (estructura independiente)", "unit":"m3", "base":0, "work_item_id":"hormigon_1m3_estruct_indep" },
+
+  { "id":"labor_prev_limpieza_jornal", "cat_s":"Previas / Generales", "desc":"Limpieza inicial y preparación de área", "unit":"jornal", "base":0, "work_item_id":null },
+  { "id":"labor_prev_replanteo_jornal", "cat_s":"Previas / Generales", "desc":"Replanteo y niveles (ejes, referencias)", "unit":"jornal", "base":0, "work_item_id":null },
+  { "id":"labor_prev_excavacion_m3", "cat_s":"Movimiento de suelo", "desc":"Excavación manual (zanjeo/fundaciones)", "unit":"m3", "base":0, "work_item_id":null },
+  { "id":"labor_prev_relleno_m3", "cat_s":"Movimiento de suelo", "desc":"Relleno y compactación (manual)", "unit":"m3", "base":0, "work_item_id":null },
+  { "id":"labor_logistica_viaje", "cat_s":"Logística", "desc":"Logística / traslados / acarreo (por viaje)", "unit":"viaje", "base":0, "work_item_id":null },
+
+  { "id":"labor_alq_andamio_dia", "cat_s":"Alquileres", "desc":"Alquiler de andamio", "unit":"día", "base":0, "work_item_id":null },
+  { "id":"labor_alq_banio_quimico_sem", "cat_s":"Alquileres", "desc":"Baño químico", "unit":"semana", "base":0, "work_item_id":null },
+  { "id":"labor_alq_herramientas_dia", "cat_s":"Alquileres", "desc":"Alquiler de herramientas (mezcladora/rotomartillo)", "unit":"día", "base":0, "work_item_id":null },
+  { "id":"labor_serv_contenedor", "cat_s":"Servicios", "desc":"Volquete / contenedor (retiro de escombros)", "unit":"servicio", "base":0, "work_item_id":null }
+]
