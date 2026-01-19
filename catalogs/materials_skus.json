@@ -1,1 +1,29 @@
 
+[
+  { "sku": "steel_bar_12m_d10", "name": "Hierro Ø10 (barra 12 m)", "unit": "barra_12m" },
+  { "sku": "steel_bar_12m_d8",  "name": "Hierro Ø8 (barra 12 m)",  "unit": "barra_12m" },
+  { "sku": "steel_bar_12m_d6",  "name": "Hierro Ø6 (barra 12 m)",  "unit": "barra_12m" },
+
+  { "sku": "cement_bag_25kg",   "name": "Cemento (bolsa 25 kg)",   "unit": "bolsa_25kg" },
+  { "sku": "lime_bag_30kg",     "name": "Cal hidráulica (bolsa 30 kg)", "unit": "bolsa_30kg" },
+  { "sku": "waterproof_can_20kg","name": "Hidrófugo / Ceresita (bidón 20 kg)", "unit": "bidon_20kg" },
+
+  { "sku": "sand_m3",           "name": "Arena",  "unit": "m3" },
+  { "sku": "gravel_m3",         "name": "Piedra", "unit": "m3" },
+
+  { "sku": "cutting_disc_u",    "name": "Disco de corte", "unit": "u" },
+  { "sku": "wire_kg",           "name": "Alambre", "unit": "kg" },
+  { "sku": "nails_2_5in_kg",    "name": "Clavos 2,5''", "unit": "kg" },
+
+  { "sku": "vigueta_u",         "name": "Vigueta", "unit": "u" },
+  { "sku": "bovedilla_eps_u",   "name": "Bovedilla EPS (tergopor)", "unit": "u" },
+  { "sku": "shap_u",            "name": "Ladrillo SHAP", "unit": "u" },
+  { "sku": "mesh_sima_m2",      "name": "Malla SIMA (equivalente por m²)", "unit": "m2" },
+
+  { "sku": "prop_3x3_3m_u",     "name": "Puntal 3x3 (3 m)", "unit": "u" },
+  { "sku": "board_1x6_3m_u",    "name": "Tabla 1x6'' (3 m)", "unit": "u" },
+
+  { "sku": "brick_hollow_08_u", "name": "Ladrillo hueco 0,08", "unit": "u" },
+  { "sku": "brick_hollow_12_u", "name": "Ladrillo hueco 0,12", "unit": "u" },
+  { "sku": "brick_hollow_18_u", "name": "Ladrillo hueco 0,18", "unit": "u" }
+]
