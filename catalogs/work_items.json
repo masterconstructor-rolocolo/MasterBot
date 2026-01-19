@@ -1,0 +1,219 @@
+[
+  {
+    "id": "fund_zapata_1x1_u",
+    "group": "Fundaciones",
+    "name": "Zapata 1x1 m",
+    "unit": "u",
+    "materials": [
+      { "sku": "steel_bar_12m_d10", "pack_qty": 2.5,  "base_qty": 30,  "base_unit": "ml" },
+      { "sku": "steel_bar_12m_d6",  "pack_qty": 0.75, "base_qty": 9,   "base_unit": "ml" },
+      { "sku": "cutting_disc_u",    "pack_qty": 1,    "base_qty": 1,   "base_unit": "u" },
+      { "sku": "wire_kg",           "pack_qty": 1,    "base_qty": 1,   "base_unit": "kg" },
+      { "sku": "nails_2_5in_kg",    "pack_qty": 0.25, "base_qty": 0.25,"base_unit": "kg" },
+      { "sku": "cement_bag_25kg",   "pack_qty": 14,   "base_qty": 350, "base_unit": "kg" },
+      { "sku": "sand_m3",           "pack_qty": 0.75, "base_qty": 0.75,"base_unit": "m3" },
+      { "sku": "gravel_m3",         "pack_qty": 0.75, "base_qty": 0.75,"base_unit": "m3" }
+    ]
+  },
+  {
+    "id": "fund_viga_fund_ml_015x030",
+    "group": "Fundaciones",
+    "name": "Viga de fundación 0,15x0,30 (1 ml)",
+    "unit": "ml",
+    "materials": [
+      { "sku": "steel_bar_12m_d8", "pack_qty": 0.5, "base_qty": 6,  "base_unit": "ml" },
+      { "sku": "steel_bar_12m_d6", "pack_qty": 1,   "base_qty": 12, "base_unit": "ml" },
+      { "sku": "cutting_disc_u",   "pack_qty": 0.5, "base_qty": 0.5,"base_unit": "u" },
+      { "sku": "wire_kg",          "pack_qty": 0.5, "base_qty": 0.5,"base_unit": "kg" },
+      { "sku": "nails_2_5in_kg",   "pack_qty": 0.5, "base_qty": 0.5,"base_unit": "kg" },
+      { "sku": "cement_bag_25kg",  "pack_qty": 1,   "base_qty": 25, "base_unit": "kg" },
+      { "sku": "sand_m3",          "pack_qty": 0.1, "base_qty": 0.1,"base_unit": "m3" },
+      { "sku": "gravel_m3",        "pack_qty": 0.1, "base_qty": 0.1,"base_unit": "m3" },
+      { "sku": "board_1x6_3m_u",   "pack_qty": 3,   "base_qty": 3,  "base_unit": "u" }
+    ]
+  },
+  {
+    "id": "col_015x030_h260_u",
+    "group": "Estructura",
+    "name": "Columna 0,15x0,30 (alto 2,6 m)",
+    "unit": "u",
+    "materials": [
+      { "sku": "steel_bar_12m_d10", "pack_qty": 1,   "base_qty": 12, "base_unit": "ml" },
+      { "sku": "steel_bar_12m_d6",  "pack_qty": 1,   "base_qty": 12, "base_unit": "ml" },
+      { "sku": "cutting_disc_u",    "pack_qty": 0.5, "base_qty": 0.5,"base_unit": "u" },
+      { "sku": "wire_kg",           "pack_qty": 0.5, "base_qty": 0.5,"base_unit": "kg" },
+      { "sku": "nails_2_5in_kg",    "pack_qty": 0.5, "base_qty": 0.5,"base_unit": "kg" },
+      { "sku": "cement_bag_25kg",   "pack_qty": 2,   "base_qty": 50, "base_unit": "kg" },
+      { "sku": "sand_m3",           "pack_qty": 0.1, "base_qty": 0.1,"base_unit": "m3" },
+      { "sku": "gravel_m3",         "pack_qty": 0.1, "base_qty": 0.1,"base_unit": "m3" },
+      { "sku": "board_1x6_3m_u",    "pack_qty": 5,   "base_qty": 5,  "base_unit": "u" }
+    ]
+  },
+  {
+    "id": "viga_sup_ml_015x030",
+    "group": "Estructura",
+    "name": "Viga superior 0,15x0,30 (1 ml)",
+    "unit": "ml",
+    "materials": [
+      { "sku": "steel_bar_12m_d10", "pack_qty": 0.5,  "base_qty": 6,  "base_unit": "ml" },
+      { "sku": "steel_bar_12m_d6",  "pack_qty": 0.75, "base_qty": 9,  "base_unit": "ml" },
+      { "sku": "cutting_disc_u",    "pack_qty": 0.5,  "base_qty": 0.5,"base_unit": "u" },
+      { "sku": "wire_kg",           "pack_qty": 0.5,  "base_qty": 0.5,"base_unit": "kg" },
+      { "sku": "nails_2_5in_kg",    "pack_qty": 0.5,  "base_qty": 0.5,"base_unit": "kg" },
+      { "sku": "cement_bag_25kg",   "pack_qty": 1,    "base_qty": 25, "base_unit": "kg" },
+      { "sku": "sand_m3",           "pack_qty": 0.1,  "base_qty": 0.1,"base_unit": "m3" },
+      { "sku": "gravel_m3",         "pack_qty": 0.1,  "base_qty": 0.1,"base_unit": "m3" },
+      { "sku": "board_1x6_3m_u",    "pack_qty": 3,    "base_qty": 3,  "base_unit": "u" }
+    ]
+  },
+  {
+    "id": "losa_m2_vigueta_shap_comp",
+    "group": "Losas",
+    "name": "Losa (1 m²) viguetas + SHAP + capa de compresión",
+    "unit": "m2",
+    "materials": [
+      { "sku": "vigueta_u",        "pack_qty": 2.5, "base_qty": 2.5, "base_unit": "u" },
+      { "sku": "bovedilla_eps_u",  "pack_qty": 2,   "base_qty": 2,   "base_unit": "u" },
+      { "sku": "shap_u",           "pack_qty": 4,   "base_qty": 4,   "base_unit": "u" },
+      { "sku": "mesh_sima_m2",     "pack_qty": 0.1, "base_qty": 0.1, "base_unit": "m2" },
+
+      { "sku": "cement_bag_25kg",  "pack_qty": 1,    "base_qty": 25,  "base_unit": "kg" },
+      { "sku": "sand_m3",          "pack_qty": 0.05, "base_qty": 0.05,"base_unit": "m3" },
+      { "sku": "gravel_m3",        "pack_qty": 0.05, "base_qty": 0.05,"base_unit": "m3" },
+      { "sku": "wire_kg",          "pack_qty": 0.5,  "base_qty": 0.5, "base_unit": "kg" },
+      { "sku": "nails_2_5in_kg",   "pack_qty": 0.5,  "base_qty": 0.5, "base_unit": "kg" },
+
+      { "sku": "prop_3x3_3m_u",    "pack_qty": 2, "base_qty": 2, "base_unit": "u" },
+      { "sku": "board_1x6_3m_u",   "pack_qty": 2, "base_qty": 2, "base_unit": "u" }
+    ]
+  },
+  {
+    "id": "wall_hueco_08_m2",
+    "group": "Mampostería",
+    "name": "Mampostería 12 cm (ladrillo hueco 0,08) — 1 m²",
+    "unit": "m2",
+    "materials": [
+      { "sku": "brick_hollow_08_u", "pack_qty": 15,   "base_qty": 15,  "base_unit": "u" },
+      { "sku": "cement_bag_25kg",   "pack_qty": 0.30, "base_qty": 7.5, "base_unit": "kg" },
+      { "sku": "lime_bag_30kg",     "pack_qty": 0.15, "base_qty": 4.5, "base_unit": "kg" },
+      { "sku": "sand_m3",           "pack_qty": 0.10, "base_qty": 0.10,"base_unit": "m3" },
+      { "sku": "steel_bar_12m_d6",  "pack_qty": 0.16, "base_qty": 2,   "base_unit": "ml" }
+    ]
+  },
+  {
+    "id": "wall_hueco_12_m2",
+    "group": "Mampostería",
+    "name": "Mampostería 15 cm (ladrillo hueco 0,12) — 1 m²",
+    "unit": "m2",
+    "materials": [
+      { "sku": "brick_hollow_12_u", "pack_qty": 15,   "base_qty": 15,  "base_unit": "u" },
+      { "sku": "cement_bag_25kg",   "pack_qty": 0.30, "base_qty": 7.5, "base_unit": "kg" },
+      { "sku": "lime_bag_30kg",     "pack_qty": 0.15, "base_qty": 4.5, "base_unit": "kg" },
+      { "sku": "sand_m3",           "pack_qty": 0.10, "base_qty": 0.10,"base_unit": "m3" },
+      { "sku": "steel_bar_12m_d6",  "pack_qty": 0.16, "base_qty": 2,   "base_unit": "ml" }
+    ]
+  },
+  {
+    "id": "wall_hueco_18_m2",
+    "group": "Mampostería",
+    "name": "Mampostería 20 cm (ladrillo hueco 0,18) — 1 m²",
+    "unit": "m2",
+    "materials": [
+      { "sku": "brick_hollow_18_u", "pack_qty": 15,   "base_qty": 15,  "base_unit": "u" },
+      { "sku": "cement_bag_25kg",   "pack_qty": 0.30, "base_qty": 7.5, "base_unit": "kg" },
+      { "sku": "lime_bag_30kg",     "pack_qty": 0.15, "base_qty": 4.5, "base_unit": "kg" },
+      { "sku": "sand_m3",           "pack_qty": 0.10, "base_qty": 0.10,"base_unit": "m3" },
+      { "sku": "steel_bar_12m_d6",  "pack_qty": 0.16, "base_qty": 2,   "base_unit": "ml" }
+    ]
+  },
+  {
+    "id": "contrapiso_12cm_suelo_m2",
+    "group": "Pisos",
+    "name": "Contrapiso 12 cm sobre terreno natural — 1 m²",
+    "unit": "m2",
+    "materials": [
+      { "sku": "cement_bag_25kg", "pack_qty": 0.75, "base_qty": 18, "base_unit": "kg" },
+      { "sku": "lime_bag_30kg",   "pack_qty": 2.25, "base_qty": 67, "base_unit": "kg" },
+      { "sku": "sand_m3",         "pack_qty": 0.45, "base_qty": 0.45, "base_unit": "m3" },
+      { "sku": "gravel_m3",       "pack_qty": 0.85, "base_qty": 0.85, "base_unit": "m3" }
+    ]
+  },
+  {
+    "id": "contrapiso_12cm_sobre_losa_m2",
+    "group": "Pisos",
+    "name": "Contrapiso 12 cm sobre losa — 1 m²",
+    "unit": "m2",
+    "materials": [
+      { "sku": "cement_bag_25kg", "pack_qty": 0.75, "base_qty": 18, "base_unit": "kg" },
+      { "sku": "lime_bag_30kg",   "pack_qty": 2.25, "base_qty": 67, "base_unit": "kg" },
+      { "sku": "sand_m3",         "pack_qty": 0.45, "base_qty": 0.45, "base_unit": "m3" },
+      { "sku": "gravel_m3",       "pack_qty": 0.85, "base_qty": 0.85, "base_unit": "m3" }
+    ]
+  },
+  {
+    "id": "carpeta_m2",
+    "group": "Carpetas",
+    "name": "Carpeta — 1 m²",
+    "unit": "m2",
+    "materials": [
+      { "sku": "cement_bag_25kg", "pack_qty": 0.108, "base_qty": 2.7, "base_unit": "kg" },
+      { "sku": "sand_m3",         "pack_qty": 0.006, "base_qty": 0.006, "base_unit": "m3" }
+    ]
+  },
+  {
+    "id": "carpeta_aisladora_m2",
+    "group": "Carpetas",
+    "name": "Carpeta aisladora (hidrófuga) — 1 m²",
+    "unit": "m2",
+    "materials": [
+      { "sku": "cement_bag_25kg",       "pack_qty": 0.108, "base_qty": 2.7, "base_unit": "kg" },
+      { "sku": "waterproof_can_20kg",   "pack_qty": 0.065, "base_qty": 1.3, "base_unit": "kg" },
+      { "sku": "sand_m3",               "pack_qty": 0.006, "base_qty": 0.006, "base_unit": "m3" }
+    ]
+  },
+  {
+    "id": "aislacion_vertical_m2",
+    "group": "Aislaciones",
+    "name": "Aislación vertical hidrófuga — 1 m²",
+    "unit": "m2",
+    "materials": [
+      { "sku": "cement_bag_25kg",       "pack_qty": 0.108, "base_qty": 2.7, "base_unit": "kg" },
+      { "sku": "waterproof_can_20kg",   "pack_qty": 0.065, "base_qty": 1.3, "base_unit": "kg" },
+      { "sku": "sand_m3",               "pack_qty": 0.006, "base_qty": 0.006, "base_unit": "m3" }
+    ]
+  },
+  {
+    "id": "revoque_ext_3cm_m2",
+    "group": "Revoques",
+    "name": "Revoque exterior 3 cm — 1 m²",
+    "unit": "m2",
+    "materials": [
+      { "sku": "cement_bag_25kg",      "pack_qty": 0.30, "base_qty": 7.5, "base_unit": "kg" },
+      { "sku": "lime_bag_30kg",        "pack_qty": 0.15, "base_qty": 4.5, "base_unit": "kg" },
+      { "sku": "sand_m3",              "pack_qty": 0.10, "base_qty": 0.10, "base_unit": "m3" },
+      { "sku": "waterproof_can_20kg",  "pack_qty": 0.05, "base_qty": 1.0, "base_unit": "kg" }
+    ]
+  },
+  {
+    "id": "revoque_int_25mm_m2",
+    "group": "Revoques",
+    "name": "Revoque interior 2,5 cm — 1 m²",
+    "unit": "m2",
+    "materials": [
+      { "sku": "cement_bag_25kg", "pack_qty": 0.30, "base_qty": 7.5, "base_unit": "kg" },
+      { "sku": "lime_bag_30kg",   "pack_qty": 0.15, "base_qty": 4.5, "base_unit": "kg" },
+      { "sku": "sand_m3",         "pack_qty": 0.10, "base_qty": 0.10, "base_unit": "m3" }
+    ]
+  },
+  {
+    "id": "hormigon_1m3_estruct_indep",
+    "group": "Hormigón",
+    "name": "Hormigón (1 m³) — estructura independiente",
+    "unit": "m3",
+    "materials": [
+      { "sku": "cement_bag_25kg", "pack_qty": 7,   "base_qty": 175, "base_unit": "kg" },
+      { "sku": "sand_m3",         "pack_qty": 0.6, "base_qty": 0.6, "base_unit": "m3" },
+      { "sku": "gravel_m3",       "pack_qty": 0.6, "base_qty": 0.6, "base_unit": "m3" }
+    ]
+  }
+]
